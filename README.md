@@ -1,4 +1,4 @@
-# XIAO Smart IR Mate — Seeed IR learning + Home Assistant IR Proxy
+# Smart IR Mate — IR learning + Home Assistant IR Proxy
 
 A **dual-mode ESPHome configuration** for the **Seeed Studio XIAO Smart IR Mate (ESP32-C3)**, combining the original Seeed local IR-learning interface with the native ESPHome IR proxy for Home Assistant and **HAIR**.
 
